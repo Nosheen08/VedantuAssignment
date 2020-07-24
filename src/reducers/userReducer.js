@@ -11,6 +11,8 @@ const userReducer = (state=user_details, action) =>{
         }
 
         default: return state;
+		
+		
     }
 }
 
